@@ -1,0 +1,81 @@
+[
+  {
+    "id": 0,
+    "day": 1,
+    "maxReps": 10,
+    "minRaps": 8,
+    "exercises": [
+      "squat",
+      "dumbbell press",
+      "leg curls",
+      "pulldown",
+      "bicep curl",
+      "leg raise"
+    ],
+    "duartion": "60 min"
+  },
+  {
+    "id": 1,
+    "day": 2,
+    "maxReps": 10,
+    "minRaps": 8,
+    "exercises": [
+      "bench press",
+      "cabel flye",
+      "roman deadlift",
+      "t-bar row",
+      "arnold press",
+      "pressdown",
+      "shrugs"
+    ],
+    "duartion": "80 min"
+  },
+  {
+    "id": 2,
+    "day": 3,
+    "maxReps": 10,
+    "minRaps": 8,
+    "exercises": [
+      "pull up",
+      "dumbbell row",
+      "leg raise",
+      "calf raise",
+      "upright row",
+      "hammer curl",
+      "push-up"
+    ],
+    "duartion": "80 min"
+  },
+  {
+    "id": 3,
+    "day": 4,
+    "maxReps": 10,
+    "minRaps": 6,
+    "exercises": [
+      "deadlift",
+      "dip",
+      "gh raise",
+      "leg extension",
+      "pullover ",
+      "lateral raise",
+      "skullcrusher"
+    ],
+    "duartion": "90 min"
+  },
+  {
+    "id": 4,
+    "day": 5,
+    "maxReps": 10,
+    "minRaps": 8,
+    "exercises": [
+      "ohp",
+      "lateral raise",
+      "cabel row",
+      "hip abduction",
+      "incline curl",
+      "crunch",
+      "calf raise"
+    ],
+    "duartion": "60 min"
+  }
+]
